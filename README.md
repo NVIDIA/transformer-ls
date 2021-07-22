@@ -5,7 +5,7 @@ This repository hosts the code and models for the paper:
 [Long-Short Transformer: Efficient Transformers for Language and Vision](https://arxiv.org/abs/2107.02192)
 
 # Updates
-- July 2021: Releasing the source code and model checkpoints for [ImageNet classification](./Transformer-LS-ViL) and [Long-Range Arena](./Transformer-LS-LRA)
+- July 23, 2021: Release the code and models for [ImageNet classification](./Transformer-LS-ImageNet) and [Long-Range Arena](./Transformer-LS-LRA)
 
 
 # Architecture
