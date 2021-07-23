@@ -5,7 +5,7 @@ This repository hosts the code and models for the paper:
 [Long-Short Transformer: Efficient Transformers for Language and Vision](https://arxiv.org/abs/2107.02192)
 
 # Updates
-- July 23, 2021: Release the code and models for [ImageNet classification](./Transformer-LS-ImageNet) and [Long-Range Arena](./Transformer-LS-LRA)
+- July 23, 2021: Release the code and models for [ImageNet classification](./imagenet) and [Long-Range Arena](./lra)
 
 
 # Architecture
@@ -14,6 +14,6 @@ Long-short Transformer substitutes the full self attention of the original Trans
 
 # Tasks
 
-- [>>> Transformer-LS for ImageNet classification](./Transformer-LS-ImageNet)
-- [>>> Transformer-LS for Long Range Areana](./Transformer-LS-LRA)
-- [>>> Transformer-LS for autoregressive language modeling](./Transformer-LS-Autoregressive)
+- [>>> Transformer-LS for ImageNet classification](./imagenet)
+- [>>> Transformer-LS for Long Range Areana](./lra)
+- [>>> Transformer-LS for autoregressive language modeling](./autoregressive)
