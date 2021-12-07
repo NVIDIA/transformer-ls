@@ -5,6 +5,7 @@ This repository hosts the code and models for the paper:
 [Long-Short Transformer: Efficient Transformers for Language and Vision](https://arxiv.org/abs/2107.02192)
 
 # Updates
+- December 6, 2021: Release the code for [autoregressive language modeling](./autoregressive)
 - July 23, 2021: Release the code and models for [ImageNet classification](./imagenet) and [Long-Range Arena](./lra)
 
 
