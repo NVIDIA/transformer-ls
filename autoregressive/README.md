@@ -8,8 +8,8 @@ The autoregressive long-short term attention implementation is [here](./model_li
 From any directory, run the following to install fairseq:
 ```
 git clone https://github.com/pytorch/fairseq.git
-git reset --hard 1f7ef9ed1e1061f8c7f88f8b94c7186834398690
 cd fairseq
+git reset --hard 1f7ef9ed1e1061f8c7f88f8b94c7186834398690
 pip install --editable .
 ```
 
